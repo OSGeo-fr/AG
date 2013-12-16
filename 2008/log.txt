@@ -1,0 +1,929 @@
+(18:48:17)  gwenaelb:  Bonjour, nous commencerons à 19h... comme prévu :-) 
+(18:48:31)  Ludovic_:  parfait, bonjour à tous 
+(18:48:39)  #  gsueur a quitté la discussion (Quitter : « Client Quit » ). 
+(18:52:48)  #  L'utilisateur sido a rejoint le canal #osgeo-fr. 
+(18:53:06)  sido:  bonjour tous! 
+(18:55:38)  #  L'utilisateur Paolini a rejoint le canal #osgeo-fr. 
+(18:56:13)  gwenaelb:  Bonjour Sido 
+(18:56:54)  vpicavet:  salut tout le monde 
+(18:59:01)  Paolini:  Bonsoir à tous 
+(18:59:26)  yjacolin:  vincentP: peux tu m'envoyer par mail ton nom, prénom, adresse postal, tel, adresse mail stp :) pour finaliser ton adhésion à l'asso ;) 
+(19:01:16)  #  L'utilisateur tbadard a rejoint le canal #osgeo-fr. 
+(19:01:29)  #  sido a quitté la discussion (Quitter : « "http://www.mibbit.com ajax IRC Client" » ). 
+(19:01:48)  yjacolin:  les votes se feront à main levés pourceux qui sont ici physiquement par mail pour les personnes par IRC 
+(19:02:04)  yjacolin:  l'adrese mail doitcorrespondre à celle que vous avez donné pour l'adhésion 
+(19:02:18)  #  L'utilisateur pierre45 a rejoint le canal #osgeo-fr. 
+(19:02:24)  #  pierre45 est maintenant connu sous le nom pierrel45. 
+(19:02:36)  yjacolin:  ceux qui ont une procuration (une personne) indiqueront également le vote supplémentaire 
+(19:02:41)  #  L'utilisateur fvanderbiest_ a rejoint le canal #osgeo-fr. 
+(19:02:53)  pierrel45:  bonsoir à tous 
+(19:02:59)  fvanderbiest_:  hello 
+(19:03:02)  tbadard:  salut 
+(19:03:11)  ppages:  bonsoir 
+(19:03:33)  #  L'utilisateur sido a rejoint le canal #osgeo-fr. 
+(19:04:21)  pierrel45:  yves, je viens t'envoyer le bulletin d'adhésion par mail y a quelques minutes (pas eu le temps avant) 
+(19:05:12)  yjacolin:  je regarde mais je n'ai pas reçu 
+(19:05:46)  #  L'utilisateur HC a rejoint le canal #osgeo-fr. 
+(19:06:27)  yjacolin:  si reçu 
+(19:06:39)  pierrel45:  ouf (;-) 
+(19:07:57)  gwenaelb:  Yves est en train de traiter les demandes d'adhésion 
+(19:07:58)  gwenaelb:  On commencera donc avec un peu de retard (encore quelques minutes) 
+(19:08:17)  sido:  ok 
+(19:08:45)  tbadard:  pas de soucis ! ;-) 
+(19:11:21)  gwenaelb:  Vous pouvez télécharger le PDF servant de support à notre AG à l'URL : http://softlibre.free.fr/osgeo-fr//board/ag2008.pdf 
+(19:13:03)  yjacolin:  merci de montrer une preuve de présence, un coucou, bonjour, suffira ;) 
+(19:13:15)  Ludovic_:  coucou 
+(19:13:22)  sido:  bêêê 
+(19:13:29)  Paolini:  hihan 
+(19:13:36)  pierrel45:  houhou 
+(19:14:36)  ppages:  bonjour 
+(19:15:08)  xpesnel:  Bonjour à tous 
+(19:15:36)  tbadard:  b'jour m'sieurs dames ! :-) 
+(19:15:37)  yjacolin:  xpesnel: peux tu me donnerton nom etprénom 
+(19:15:45)  yjacolin:  pierrel45 aussi :) 
+(19:16:32)  yjacolin:  j'ai besoin d'un secrétaire :) 
+(19:16:39)  pierrel45:  pierre lagarde 
+(19:16:59)  HC:  Bonjour (mon pseudo a changé, donc HC correspond à HHA, soit Hervé HALBOUT) 
+(19:18:19)  yjacolin:  13 personnesau total 
+(19:18:24)  sido:  bon, sinon il fait beau chez vous? 
+(19:18:27)  yjacolin:  26 personnes membres à l'asso 
+(19:18:31)  fvanderbiest_:  re-hello 
+(19:18:44)  sido:  13 en tout, ou physique? 
+(19:18:48)  gwenaelb:  Pour information, sont physiquement réunis : gwenaelb, yjacolin, hhalbout, benjamin Chartier, Thierry Gebelin 
+(19:18:49)  yjacolin:  en tout 
+(19:19:09)  yjacolin:  12 personnes ayant un droit de vote et 2 procurations 
+(19:19:21)  tbadard:  Faut pas être superstitieux ! :-) 
+(19:19:52)  sido:  tu afficheras les 26 membres sur le site? 
+(19:19:55)  yjacolin:  14 personnes le quorum est donc atteint 
+(19:20:07)  yjacolin:  non la liste nedoit pas être diffusée 
+(19:20:07)  pierrel45:  ouf ! 
+(19:20:19)  yjacolin:  vous avez tous le ppt devant les yeux 
+(19:20:20)  sido:  ah? 
+(19:20:25)  fvanderbiest_:  oui 
+(19:20:25)  yjacolin:  c'est la loi sido 
+(19:20:31)  pierrel45:  oui 
+(19:20:34)  gwenaelb:  Le PDF (qui est sur http://softlibre.free.fr/osgeo-fr//board/ag2008.pdf) 
+(19:20:50)  sido:  sorry 
+(19:20:59)  yjacolin:  qui se propose comme secrétaire 
+(19:21:09)  yjacolin:  Pierre Lagarde  ?:p 
+(19:21:27)  pierrel45:  c'est le bisutage ? 
+(19:21:38)  sido:  :) 
+(19:21:40)  gwenaelb:  Pour info, je vais faire la liaison IRC et AG "physique" 
+(19:22:02)  gwenaelb:  Nous sommes diapo 3, préparation 
+(19:22:10)  gwenaelb:  Le président sera Yves Jacolin 
+(19:22:17)  gwenaelb:  Le secrétaire sera... 
+(19:22:39)  gwenaelb:  Il nous faut quelqu'un. 
+(19:23:01)  pierrel45:  faisable depuis l'IRC ? 
+(19:23:16)  gwenaelb:  Oui, le but est que l'IRC "voit" tous les éléments 
+(19:23:26)  gwenaelb:  Secrétaire : Hervé Halbout 
+(19:23:35)  gwenaelb:  Scrutateur : Hervé Halbout 
+(19:23:55)  gwenaelb:  Lien IRC-AG : tout le monde (IRC est projeté dans la salle ou nous sommes) 
+(19:24:03)  gwenaelb:  Lien AG-IRC : Gwenael Bachelot 
+(19:24:25)  HC:  le scrutateur dit qu'il y a un accent sur le ou 
+(19:24:26)  gwenaelb:  Liste des présents "physique" : voir précédemment 
+(19:24:54)  gwenaelb:  Le quorum est atteint ... le président déclare la session ouverte :-) 
+(19:25:10)  gwenaelb:  Important : si vous devez partir de l'IRC, nous devons le noter 
+(19:25:28)  gwenaelb:  ... donc il faudra vous signaler 
+(19:25:40)  sido:  ok 
+(19:25:43)  pierrel45:  ok 
+(19:25:49)  gwenaelb:  Slide 4/20 : rappel ordre du jour 
+(19:25:52)  xpesnel:  ok 
+(19:26:17)  gwenaelb:  Compte rendu moral : pas obligatoire (association n'existait pas l'année écoulée) 
+(19:26:59)  tbadard:  Doit on voter l'OJ ? 
+(19:27:03)  gwenaelb:  Diapo 6 : Compte rendu année 2007/2008 
+(19:27:06)  yjacolin:  oui 
+(19:27:32)  tbadard:  Via IRC ou courriel ? 
+(19:27:32)  Ludovic_:  par mail ? 
+(19:27:35)  yjacolin:  on passe au vote à l(ordre du jour 
+(19:27:36)  yjacolin:  par mail svp 
+(19:27:49)  sido:  et on t'ecrit quoi? +1 / -1 ? 
+(19:27:56)  Ludovic_:  et à qui ? 
+(19:28:00)  tbadard:  destinataire du courriel ? 
+(19:28:03)  sido:  quelle adresse? 
+(19:28:08)  yjacolin:  celle sur free 
+(19:28:11)  gwenaelb:  Rappel : vote par email à Yves Jacolin (vous connaissez son adresse) 
+(19:28:12)  tbadard:  ok 
+(19:28:24)  Paolini:  repreciser l'adresse entiere plz 
+(19:28:29)  gwenaelb:  Vote = +1 ou -1 (0 pour absention) 
+(19:28:37)  yjacolin:  regarder les mails sur la liste Francophone 
+(19:28:46)  yjacolin:  yjacolin 
+(19:28:49)  Paolini:  ok 
+(19:28:58)  Ludovic_:  a voté ! 
+(19:29:02)  fvanderbiest_:  idem 
+(19:29:05)  tbadard:  fait ! 
+(19:29:22)  pierrel45:  fait 
+(19:30:11)  Paolini:  a voté 
+(19:30:21)  sido:  a voté + marie a voté 
+(19:30:55)  vpicavet:  itou 
+(19:32:31)  gwenaelb:  Vote en cours de comptabilisation 
+(19:33:15)  HC:  le scrutateur propose de passer au vote direct par IRC plutôt que par e-mail, car l'e-mail risque d'allonger les délais. 
+(19:33:16)  gwenaelb:  Ordre du jour approuvé : 14 exprimés, 14 pour 
+(19:33:25)  gwenaelb:  Ok 
+(19:33:30)  sido:  +1 le scrutateur 
+(19:33:38)  Ludovic_:  +1 scrutateur 
+(19:33:45)  gwenaelb:  Pour voter, vous attendrez tous que je déclare le vote ouvert, svp :-) 
+(19:33:47)  #  L'utilisateur Denis_Helfer a rejoint le canal #osgeo-fr. 
+(19:33:56)  ppages:  Bonne AG !! Bonne soirée !!! je dois vous quitter A bientôt 
+(19:34:02)  sido:  :p 
+(19:34:07)  Denis_Helfer:  bonsoir tout le monde, désolé pour le retard 
+(19:34:14)  yjacolin:  heureusement queDenis arrive sinon lequorum ... 
+(19:34:15)  gwenaelb:  Non, sido, je ne te vise pas en particulier :è) 
+(19:34:19)  sido:  Bonne soirée Ppages, et bonjour Denis 
+(19:34:28)  Paolini:  Denis_Helfer: bonsoir 
+(19:34:34)  HC:  Bonsoir Denis, cela va te coûter un coup à boire ! 
+(19:34:37)  gwenaelb:  Ordre du jour approuvé 
+(19:34:51)  gwenaelb:  Diapo 6/20 du PDF http://softlibre.free.fr/osgeo-fr//board/ag2008.pdf 
+(19:35:13)  #  ppages a quitté la discussion. 
+(19:35:32)  gwenaelb:  Au niveau Asso 1901, les statuts sont déposés. La publication au JO est en cours. 
+(19:36:03)  gwenaelb:  Une liste Board-Fr a été créé sur le serveur de l'OSGeo. Vous pouvez ainsi suivre les discussions du bureau si vous le souhaitez. 
+(19:36:06)  yjacolin:  http://lists.osgeo.org/mailman/listinfo/board-fr 
+(19:36:08)  sigq:  Title: Page d'infos de Board-fr (at lists.osgeo.org) 
+(19:36:55)  gwenaelb:  Pour les salons : 
+(19:37:15)  gwenaelb:  Yves a représenté l'OSGeo sur un stand dédié au GeoTunis en octobre 2007 
+(19:37:44)  gwenaelb:  Nous reverrons les sponsors des différentes actions lors du point sur le budget 
+(19:38:02)  gwenaelb:  Nous avions aussi un stand sur le village Open Source du dernier GéoEvènement 
+(19:38:59)  gwenaelb:  En terme de communication : Marie Silvestre a effectué un gros travail de traduction du site OSGeo.org 
+(19:39:12)  gwenaelb:  ... et de beaucoup de communiqués. 
+(19:39:32)  fvanderbiest_:  Merci Marie. 
+(19:39:35)  gwenaelb:  Diapo 7/20 
+(19:39:40)  sido:  merci pour elle 
+(19:39:50)  gwenaelb:  Et merci Marie :-) 
+(19:39:50)  fvanderbiest_:  ;-) 
+(19:40:04)  gwenaelb:  Diapo 7/20 
+(19:40:12)  sido:  ouioui, on y est 
+(19:40:21)  gwenaelb:  Vous voyez l'évolution des inscrits à la ML Francophone 
+(19:40:41)  sido:  oui splendide 
+(19:40:49)  tbadard:  C'est très bon signe tout cela 
+(19:40:57)  gwenaelb:  A 19h39, le 2 septembre, nous sommes 157 inscrits à cette ML. 
+(19:41:08)  pierrel45:  au regard des autres list osgeo ? 
+(19:41:45)  sido:  on a une idée des catégories socioprof, si on les connait? 
+(19:41:46)  gwenaelb:  Pierre : on n'a pas la réponse, mais c'est la première liste pour les représentations locales 
+(19:41:54)  gwenaelb:  Stop SIDO... 
+(19:41:59)  gwenaelb:  ;-) 
+(19:42:05)  yjacolin:  conf sondage de Sido et MarieSido:  
+(19:42:19)  sido:  (on n'a pas le droit de parler?) 
+(19:42:21)  yjacolin:  diapo 9 ;) 
+(19:42:26)  gwenaelb:  Si :-) 
+(19:42:31)  xpesnel:  Les petits carrées correspond-ils à des évenements particuliers ? 
+(19:42:42)  sido:  bon alors pourquoi stop? ;) 
+(19:42:48)  gwenaelb:  Non, les petits carrés sont les valeurs au moment de leur relevé 
+(19:42:51)  gwenaelb:  Sido... 
+(19:43:20)  sido:  ok je viens de tilter 
+(19:43:33)  sido:  il faut regarder diapo 9 pr la reponse a ma question, cooool 
+(19:44:07)  gwenaelb:  On a du mal à lier l'augmentation des abonnés aux actions de la représentation locale 
+(19:44:19)  gwenaelb:  Diapo 8/20 
+(19:44:46)  gwenaelb:  Hervé H et Yves J ont présenté l'OSGeo FR à l'AFIGEO 
+(19:45:00)  gwenaelb:  Le premier contact avait été pris lors du GéoEvènement 
+(19:45:45)  gwenaelb:  Il y a des choses à faire; il faudra trouver une personne pour faire la liaison... Hervé Halbout étant membre actif de l'AFIGEO, il pourra jouer ce rôle. 
+(19:46:02)  gwenaelb:  Au niveau des Communiqués de presse (CP) 
+(19:46:03)  sido:  ok 
+(19:46:18)  tbadard:  des choses ? Une idée, des pistes plus précises ou est ce trop tôt ? 
+(19:46:31)  vheurteaux:  rhâââ ... désolé j'arrive trop tard, et je n'ai pas eu le temps d'envoyer le bulletin :-(  bonsoir a tous ! 
+(19:46:52)  gwenaelb:  Pour Afigéo : 
+(19:46:56)  sido:  salut vincent, mais t'es deja bulletiné 
+(19:47:00)  #  L'utilisateur Thomas_ a rejoint le canal #osgeo-fr. 
+(19:47:01)  yjacolin:  vheurteaux: déjà inscrit 
+(19:47:04)  gwenaelb:  Thierry : c'est bien pour Afigéo ? 
+(19:47:08)  tbadard:  oui 
+(19:47:11)  vheurteaux:  ah cool :-) 
+(19:47:14)  Thomas_:  Hello 
+(19:47:32)  Thomas_:  En retard... 
+(19:47:33)  gwenaelb:  Pour Afigéo : il faut que nous trouvions une occasion 
+(19:47:50)  Paolini:  bonsoir aux nouveaux arrivants 
+(19:47:51)  Denis_Helfer:  bonsoir Thomas et Vincent, je suis dispensé de payer un coup à boire ;-) 
+(19:47:53)  gwenaelb:  Est-ce que l'OSGeo FR est membre de l'AFIGEO ? 
+(19:47:57)  gwenaelb:  Réponse : pas encore 
+(19:47:58)  sido:  bonsoir Thomas 
+(19:48:14)  Thomas_:  Salut Sido 
+(19:48:50)  vheurteaux:  salut a tous 
+(19:48:56)  gwenaelb:  Nous discutons des manières de faire une adhésion croisée. 
+(19:49:08)  sido:  qu'est-ce? 
+(19:49:10)  gwenaelb:  Pour officialiser la liaison entre les deux asso 
+(19:49:14)  sido:  ok 
+(19:49:26)  gwenaelb:  Que AFIGEO soit membre d'OSGEO-FR et inversement 
+(19:49:49)  yjacolin:  Thomas_: nom prénom stp pour la liste des présent :) 
+(19:49:58)  gwenaelb:  Mais seule une personne physique peut être membre de l'OSGeo-FR. 
+(19:50:08)  gwenaelb:  On trouvera une solution... 
+(19:50:10)  Ludovic_:  pour etre membre il faut etre une personne physique pas, ok trop tard 
+(19:50:18)  yjacolin:  :p 
+(19:50:28)  gwenaelb:  Au niveau des CP (communiqué de presse) 
+(19:51:32)  gwenaelb:  Ils sont traduits et diffusés plus ou moins régulièrement. La diffusion se fait sur GeoRezo (postés en général par Yves, traduction par Yves, Marie, ou LGR) 
+(19:51:35)  #  Thomas_ est maintenant connu sous le nom gratier_thomas. 
+(19:51:47)  gwenaelb:  LGR : Ludovic Granjeon 
+(19:51:57)  yjacolin:  Granjon :) 
+(19:51:59)  Ludovic_:  granJon 
+(19:52:01)  gwenaelb:  >    LGR : Ludovic Granjon 
+(19:52:01)  Ludovic_:  merci 
+(19:52:03)  gwenaelb:  :-) 
+(19:52:16)  yjacolin:  merci Thomas_ 
+(19:52:30)  gwenaelb:  Pour PortailSIG : la traduction est assurée par les mêmes, la diffusion par LGR 
+(19:52:45)  gwenaelb:  Au niveau sondage, deux ont été fait 
+(19:52:55)  gwenaelb:  Le premier après le GeoEvenement 
+(19:53:11)  gwenaelb:  sur défauts/qualités 
+(19:53:24)  gwenaelb:  et participation à un éventuel prochain village 
+(19:53:42)  gwenaelb:  Il faudra l'organiser dans les mois qui viennent 
+(19:54:08)  gwenaelb:  Il faudra que l'animation soit aussi assurée par la communauté (pas uniquement pas les entreprises) 
+(19:54:23)  gwenaelb:  (pas uniquement paR les entreprises) 
+(19:55:05)  gwenaelb:  Le second sondage concernait la communauté OSGeo-FR 
+(19:55:25)  gwenaelb:  La synthèse avait été faite par Marie et Sido (merci à elles ! ;-)) 
+(19:55:42)  sido:  merci pour nous 
+(19:55:49)  gwenaelb:  Diapo 9/20 : résumé de ce sondage 
+(19:56:14)  yjacolin:  sido: peux tu poster l'url 
+(19:56:24)  gwenaelb:  L'analyse de Sido et de Marie est toujours disponible en consultation 
+(19:56:58)  sido:  je cherche 
+(19:57:10)  gwenaelb:  Le sondage : pb de communication, pas de meneur assez présent 
+(19:57:19)  gwenaelb:  Le journal est le projet qui fonctionne bien 
+(19:57:45)  gwenaelb:  sans doute parce que la méthodologie a été bien expliquée 
+(19:57:52)  sido:  http://wiki.osgeo.org/wiki/Questionnaire_OSGeofr_mai_2008_fr 
+(19:57:54)  sigq:  Title: Questionnaire OSGeofr mai 2008 fr - OSGeo Wiki (at wiki.osgeo.org) 
+(19:58:15)  gwenaelb:  et que les traductions sont facilement "découpables" en petites taches 
+(19:58:19)  sido:  "pas de meneur assez présent" ? 
+(19:58:30)  gwenaelb:  Non, mauvaise expression 
+(19:58:32)  fvanderbiest_:  oui, je ticke la dessus aussi 
+(19:58:35)  sido:  sur quel point? 
+(19:59:04)  yjacolin:  s/meneur/animateur :) 
+(19:59:05)  sido:  précisez pbs de communications bureau <-> membres 
+(19:59:06)  gwenaelb:  quand un projet apparait intéressant, il est difficile de trouver un meneur 
+(19:59:16)  gwenaelb:  animant le projet 
+(19:59:25)  sido:  ca ne sort pas du sondage, ça... 
+(19:59:33)  gwenaelb:  Ok 
+(19:59:38)  yjacolin:  sido: dis oralement :) 
+(19:59:46)  sido:  on parle du sondage là. 
+(19:59:59)  gwenaelb:  Je te laisse la parole 
+(20:00:04)  yjacolin:  sido: non c'est une analyse plus poussé issus de 1/ unedemande poussée pourcréer de nouveau projet 
+(20:00:05)  gwenaelb:  à Sido 
+(20:00:12)  sido:  ok yves. 
+(20:00:28)  sido:  je précise juste,: toujours même petit noyau, manque de plus de contributeurs, 
+(20:00:47)  sido:  président fait bcq trop de choses (et a besoin d'aiiiide) 
+(20:01:04)  yjacolin:  les contributeurs potentielles il en existe mais il faut un animateur qui communique, dynamise, etc . 
+(20:01:27)  sido:  oui, mais pas toujours yjacolino comme animateur, c'est ça la remarque ;) 
+(20:01:48)  yjacolin:  donc pourrevenir au sondage, qui montre un intéret pour de nouveau proijet : pas chaud pour en créer mais intéressé si animateur se propose et si ... 
+(20:01:55)  Ludovic_:  pardon mais j'ai du mal à tout suivre là, de quoi parlons nous ? 
+(20:01:55)  yjacolin:  les objectifs ne sont pas trop ambitieux 
+(20:02:03)  sido:  on y est au sondage yves. 
+(20:02:26)  yjacolin:  je part du sondage pourfaire une analyse des projets OSGeo-fr 
+(20:02:49)  sido:  ok. fdb s'est lancé déjà. 
+(20:03:13)  gwenaelb:  Sido : tu parles du projet Données ? 
+(20:03:24)  fvanderbiest_:  j'ai du ma a suivre aussi ... 
+(20:03:29)  fvanderbiest_:  mal à suivre ... 
+(20:03:33)  yjacolin:  ok je reprend la diapo 9 
+(20:03:36)  sido:  moi aussi, françois 
+(20:04:05)  yjacolin:  la diapo 9 est une synthèse rapide de lasynthèse 
+(20:04:22)  yjacolin:  je vousq invite à lire la synthèse de sido pour avoir quelque chose de plus complet et vous faire une idée plus précise 
+(20:04:40)  yjacolin:  pour remonter les points importants de ce sondage et e ntirer quelque chose au niveau OSGeo 
+(20:04:40)  sido:  oui, c'est prquoi, j'ai précisé un peu. 
+(20:05:00)  yjacolin:  je dirais :1- problème de communication au niveau du Bureau qui ... 
+(20:05:14)  yjacolin:  a débouché sur la list eBoard-fr 
+(20:05:19)  sido:  ok 
+(20:05:35)  yjacolin:  2- problèùe de communication sur les projets en contradiction ... 
+(20:05:46)  fvanderbiest_:  lesquels ? 
+(20:05:56)  yjacolin:  avec le point suivant : envie de nouveau projet  
+(20:06:06)  fvanderbiest_:  ok. 
+(20:06:09)  yjacolin:  peu de comm, peu de contribution mais envie de nouveau projet 
+(20:06:13)  yjacolin:  cela implique une réflexcion 
+(20:06:22)  Denis_Helfer:  d'accord 
+(20:06:25)  fvanderbiest_:  +1 avec ça 
+(20:06:29)  yjacolin:  créer des projets avec des objectis pas trop ambitieux 
+(20:06:41)  yjacolin:  sinon infaisible 
+(20:06:48)  Denis_Helfer:  si ambitieux, mais phasés 
+(20:06:50)  pierrel45:  du concret 
+(20:06:51)  yjacolin:  perte de motivation, etc. 
+(20:06:55)  pierrel45:  dans les projets 
+(20:07:03)  yjacolin:  il faut des animateurs pour comuniquer, dynamiser, etc. 
+(20:07:30)  fvanderbiest_:  et des gens en face qui ont du temps ;-) 
+(20:07:51)  Ludovic_:  oui attention à ne pas faire des raccourcis 
+(20:08:00)  yjacolin:  en fait l'animateur n'est pas celui qui doit tout faire, le projet ne doit pas avoir des objectifs trop ambitieux 
+(20:08:03)  #  HC est maintenant connu sous le nom hhalbout. 
+(20:08:16)  Ludovic_:  c'est pas parce que les gens veulent de nouveau projet qu'on aura des contributeurs meme avec des animateurs 
+(20:08:23)  yjacolin:  et comme le disait GBA, découper le projet en tache plus petite qui demandent moins de temps 
+(20:08:40)  gwenaelb:  J'en parlais pour le journal 
+(20:08:46)  yjacolin:  Ludociv_ : c'est ce que je disais plus haut 
+(20:08:52)  yjacolin:  pas forcément pour de nouveau projet 
+(20:08:54)  Ludovic_:  ah bon, pas vu 
+(20:08:59)  yjacolin:  importance davoir un animateur motivé 
+(20:09:11)  yjacolin:  la discussion pourra reprendre plus tard sur la liste 
+(20:09:18)  sido:  et qui a du temps, et/ou qui sait déléguer 
+(20:09:20)  Ludovic_:  ok dommage 
+(20:09:36)  yjacolin:  dernier point du sondage : peu de contributeur, ceux qui contribu n'ont pas plus de temps 
+(20:09:43)  yjacolin:  équilibre difficile à avoir 
+(20:09:47)  yjacolin:  à réfléchir 
+(20:09:52)  sido:  question importante, des gens qui ont pris des presonsabilites et qui n'ont pas eu le temps finalement, comment remédier ? 
+(20:09:55)  yjacolin:  c tout pour la diapop 
+(20:10:17)  yjacolin:  on en reparle dans 5 mn justement :) 
+(20:10:25)  sido:  => etre sur d'avoir qqun pr prendre le relais, si on n'a plus le temps 
+(20:10:28)  sido:  ok yves 
+(20:10:29)  yjacolin:  qu'on finise la présentation morale 
+(20:10:32)  gwenaelb:  On avance ... 
+(20:10:39)  gwenaelb:  Diapo 10/20 
+(20:10:39)  hhalbout:  Ah ! 10/20, c'est une bonne moyenne pour un jour de rentrée ! 
+(20:10:52)  gwenaelb:  Non Sido, tu ne réponds pas :-) 
+(20:11:09)  yjacolin:  côté logiciels libres : peu de projet par contre un des plus actifs 
+(20:11:19)  gwenaelb:  (cliquetis du clavier d'Yves) 
+(20:11:23)  yjacolin:  le journal : bon dynamisme, intére à priori 
+(20:11:38)  yjacolin:  legroupê de travail devientautonome 
+(20:11:52)  yjacolin:  très bon exemple de groupe de travail (ama) 
+(20:12:10)  yjacolin:  travail de qualité 
+(20:12:27)  Denis_Helfer:  appludissements 
+(20:12:33)  yjacolin:  objectif peu ambitieux, tache découpée facilement 
+(20:12:53)  yjacolin:  procédure "clair" un peu trop complexe ? a voir 
+(20:13:14)  yjacolin:  projet de démo : un peu tomber dans l'oubli, je n'ai pas eut le temp de m'y mettre sérieusmeent 
+(20:13:20)  tbadard:  Et toujours le fun à faire car on apprend en traduisant ... 
+(20:13:21)  yjacolin:  mais intéret tjrs d'actualité 
+(20:13:32)  sido:  "n    procédure "clair" un peu trop complexe ?" ca veut dire quoi? 
+(20:13:32)  yjacolin:  tbadard: je note pour le volume 4 ;) 
+(20:13:46)  yjacolin:  ca veut dire que l'on peut faciliter la procédure de traduction du journal 
+(20:14:04)  gwenaelb:  Lobby... 
+(20:14:05)  yjacolin:  action de lobby : néant 
+(20:14:20)  tbadard:  yes, toujours présent ! ;-) 
+(20:14:37)  yjacolin:  en fait c'est le genre de projet qui montre le mauvais exemple  
+(20:14:40)  yjacolin:  objectif pas claire 
+(20:14:54)  yjacolin:  mais c'est typiquement le genre de chose que peuvent faire les membres de la liste 
+(20:15:01)  yjacolin:  en parlant autour de soit del'OSGep 
+(20:15:14)  yjacolin:  ex. : LGR ;) 
+(20:15:16)  yjacolin:  TBA 
+(20:15:24)  Denis_Helfer:  faire et faire savoir 
+(20:15:28)  Ludovic_:  pardon ? je dois faire quelque chose ? 
+(20:15:29)  yjacolin:  et bcp d'autre ;) 
+(20:15:44)  yjacolin:  non Ludo je pense quetu as parlé de l'OSGeo autour de toi non ? 
+(20:15:55)  Ludovic_:  ah oui c'est bon, ouf 
+(20:16:16)  yjacolin:  en tout cas de genre de chose que lon peut facilement déléguer aux membres 
+(20:16:46)  gwenaelb:  Diapo 11/20 
+(20:16:49)  yjacolin:  François ? 
+(20:16:52)  gwenaelb:  François ? 
+(20:16:56)  gwenaelb:  ;-) 
+(20:17:28)  gwenaelb:  On parle donc des données libres 
+(20:17:29)  fvanderbiest_:  oui 
+(20:17:35)  yjacolin:  on t'écoute 
+(20:17:37)  yjacolin:  :p 
+(20:18:06)  hhalbout:  libre à toi de parler des données François 
+(20:18:06)  fvanderbiest_:  Bah, je dirais ce qui est marqué sur le PPT ... 
+(20:18:06)  fvanderbiest_:  3 actions entreprises ... 
+(20:18:48)  fvanderbiest_:  une definition des objectifs pour 2008 (qui n'a pas recu bcp de contributions) 
+(20:19:28)  fvanderbiest_:  une action de veille sur les licences avec rapport à la liste par mail à francophone@ ... 
+(20:20:03)  fvanderbiest_:  un groupe de travail initié, qui n'attend que des directions ;-) 
+(20:20:25)  fvanderbiest_:  Alors justement, j'en ai qqs unes, mais je ne veux pas que ce soit moi seul qui les propose ... 
+(20:20:26)  yjacolin:  combien depersonne ? 
+(20:20:33)  fvanderbiest_:  3 avec moi 
+(20:20:47)  fvanderbiest_:  d'autres non declarees probablement ... 
+(20:20:52)  hhalbout:  des noms ! 
+(20:20:56)  Ludovic_:  propose ça donnera peut être un élan non? 
+(20:21:19)  Ludovic_:  et une base de reflexion 
+(20:21:21)  fvanderbiest_:  OK, attention au copier collé ... 
+(20:21:23)  fvanderbiest_:  objectifs 2009 : 
+(20:21:23)  fvanderbiest_:   - cellules de réflexion à créer (sous la forme de groupes de travail ?) : 
+(20:21:23)  fvanderbiest_:       - reutilisation des données publiques (ex : cadastre pour OSM ...) : sous quelle condition ? aspects légaux ? 
+(20:21:23)  fvanderbiest_:       - autour des licences libres pour les données geo : en cours (avec l'aide de B. Jean - doctorant en droit chez Linagora) 
+(20:21:24)  fvanderbiest_:   - etre convainquant aupres d'un grand nombre d'administrations, associations, etc, de l'interet de publier leurs données sous licence libre (et pas seulement "ouverte" : distinguo sur la clause "utilisation commerciale" ou non) 
+(20:21:28)  fvanderbiest_:   - publier plus largement notre volonté d'assistance pour publier de la donnée géo libre (assistance au choix d'une licence, hébergement, etc) 
+(20:21:42)  fvanderbiest_:  Qu'en dites vous ? 
+(20:22:06)  gwenaelb:  +1 :-) 
+(20:22:17)  Ludovic_:  la 2eme est un projet georezo me semble t'il 
+(20:22:24)  pierrel45:  point 1 : cela relève-t-il du niveau OSGEO ? plutôt de l'administration ? 
+(20:22:31)  hhalbout:  les actions auprès des collectivités sont essentielles 
+(20:22:40)  yjacolin:  eux on ne va âs discuter des objectifs 
+(20:22:48)  yjacolin:  on est là pourprésenter ce qui a été réalisé 
+(20:22:54)  fvanderbiest_:  et le futur 
+(20:22:57)  yjacolin:  donc si je comprend bien on en est là 
+(20:22:58)  Ludovic_:  oui d'ac avec yves on reparle de ça sur la liste 
+(20:22:59)  yjacolin:  lefutur plus tard ;) 
+(20:23:05)  fvanderbiest_:  ok 
+(20:23:07)  pierrel45:  ok 
+(20:23:17)  gwenaelb:  Diapo 12/20 : Budget 
+(20:23:18)  yjacolin:  Hervé ? 
+(20:23:33)  gwenaelb:  Vous avez le budget pour le GeoEvènement, et le sponsor associé 
+(20:23:41)  hhalbout:  ah ! parler d'un budget non officiel ! quel pied ! 
+(20:23:50)  gwenaelb:  Ainsi que le budget pour GeoTunis, et les différents sponsors 
+(20:23:54)  gwenaelb:  pour GeoTunis 
+(20:24:08)  yjacolin:  trois sponsors nous ont éaidé cette année (2007-2008) 
+(20:24:51)  yjacolin:  pour Géotunis : Mapgear a officiellement sponsorié l'OSGeo 
+(20:25:34)  yjacolin:  je tiens à les remercier bein que peu élévée il s'agit d'une petit structure et elle est la premiere à sponsoriser l'OSGeo financièrement 
+(20:26:00)  yjacolin:  Géoévénement : autre projet, autrement plus complexe, avec deux gros sponsor 
+(20:26:23)  yjacolin:  C2C : virginie Jourdan a géré de bout en bout l'organisation du village 
+(20:26:38)  yjacolin:  recherche des sociétés (une 10 e) gestion des confs, etc. 
+(20:26:44)  yjacolin:  gros travail 
+(20:26:52)  yjacolin:  merci à elle et à C2C 
+(20:27:00)  Denis_Helfer:  applaudissements 
+(20:27:21)  yjacolin:  Enfin, Autodesk qui a sponsorisé le stand 
+(20:27:26)  yjacolin:  et géré une partiedu marketing 
+(20:27:40)  fvanderbiest_:  Je transmets pour Virginie. 
+(20:27:54)  yjacolin:  clé usb, tshirt, etc. totem ... beau travail, et gros sponsorisation (3 000 €) 
+(20:27:58)  yjacolin:  merci Gwenael :) 
+(20:28:08)  yjacolin:  oui françois :) 
+(20:28:18)  gwenaelb:  Je transmettrais aussi... 
+(20:28:24)  gwenaelb:  :-) 
+(20:28:26)  yjacolin:  les clés usb ont été un bo succès ! 
+(20:28:36)  yjacolin:  le budget proprementdit maintenant 
+(20:28:49)  hhalbout:  concernant le budget lui-même, l'OSGeo-fr n'a pu fonctionner que par l'intermédiaire de sponsors, l'assos n'ayant pas d'existence officielle. Mais cela a permis d'exister. 
+(20:28:51)  hhalbout:  Le budget 2008-2009 sera différent. 
+(20:29:10)  hhalbout:  Les chiffres parlent d'eux-même. 
+(20:29:38)  hhalbout:  Il convient maintenant de voter pour le compte-rendu moral et le budget 
+(20:29:46)  gwenaelb:  Vote par IRC (+1/0/-1) : le vote est ouvert 
+(20:29:50)  yjacolin:  +1 
+(20:29:51)  gwenaelb:  +1 
+(20:29:57)  vpicavet:  +1 
+(20:29:58)  yjacolin:  +1 
+(20:30:00)  hhalbout:  +1 
+(20:30:01)  sido:  +1 
+(20:30:02)  Denis_Helfer:  +1 
+(20:30:03)  vheurteaux:  +1 
+(20:30:04)  tbadard:  +1 
+(20:30:06)  pierrel45:  +1 
+(20:30:07)  xpesnel:  non-membre 
+(20:30:09)  sido:  +1 (marie silvestre) 
+(20:30:16)  Ludovic_:  +1 
+(20:30:39)  yjacolin:  +2 
+(20:30:45)  fvanderbiest_:  +1 
+(20:30:55)  Paolini:  +1 
+(20:31:06)  gwenaelb:  Le +2 est pour Benjamin Chartier et Thierry Gebelin, présents, non connectés 
+(20:31:23)  yjacolin:  le compte rendu moral et le budget sànt validé 
+(20:31:35)  gwenaelb:  avé l'acent 
+(20:31:48)  hhalbout:  maintenant, passons au sujets qui fâchent ! 
+(20:31:53)  yjacolin:  deuxième partie : vote de lacotisation annuelle pour 2009 
+(20:31:58)  gwenaelb:  Diapo 13/20 
+(20:32:07)  gwenaelb:  Diapo 14/20 
+(20:32:16)  gwenaelb:  (on est très rapide ce soir) 
+(20:32:24)  hhalbout:  Il devient nécessaire d'avoir un fond de roulement 
+(20:32:31)  tbadard:  ben oui sido ne parle pas ! :p 
+(20:32:40)  yjacolin:  :D 
+(20:32:41)  gwenaelb:  :p 
+(20:32:55)  Ludovic_:  si vous la cherchez ... 
+(20:33:06)  hhalbout:  pour payer la parution au JO, par exemple et l'assurance de l'asso 
+(20:33:11)  Paolini:  on est quand meme la pour echanger un minimum les mecs! 
+(20:33:55)  hhalbout:  Que pensez-vous de l'idée de la cotisation et ... de son montant ? 
+(20:34:09)  yjacolin:  echange deuxsticker OSGeo + un tshirt et une clé usb contre un bon resto 
+(20:34:10)  gwenaelb:  Je dirais pour, avec un faible montant 
+(20:34:23)  Ludovic_:  ok pour le principe pour moi, mais peut être à assouplir pour certains cas 
+(20:34:33)  xpesnel:  un tarif étudiant ? 
+(20:34:47)  gwenaelb:  Je propose un montant de 10 euros 
+(20:34:52)  hhalbout:  10 euros, c'est déjà un tarif étudiant ! 
+(20:34:56)  gwenaelb:  (qui est marqué sur le PDF :-) 
+(20:34:57)  tbadard:  Quid du paiement pour ceux à l'étranger ? 
+(20:34:58)  Ludovic_:  voila étudiant chomeur pour éviter de se couper de certaines catégories 
+(20:35:07)  hhalbout:  en dollar ? 
+(20:35:09)  tbadard:  retraité 
+(20:35:14)  gwenaelb:  Thierry : je paie pour toi, et tu m'offriras une bière ? 
+(20:35:19)  hhalbout:  rentier 
+(20:35:28)  tbadard:  Et même 2 ! ;-) 
+(20:35:32)  Denis_Helfer:  fonctionnaire ! 
+(20:35:35)  yjacolin:  sinon voir comment l'OSGeoqc va évoluer 
+(20:35:56)  yjacolin:  il zerait bàn d'avoir un budget, évantuellement comme l'asso peut les y aider 
+(20:36:21)  gwenaelb:  Il doit manquer un morceau... 
+(20:36:21)  tbadard:  yjacolin: euh ... pas sûr d'avoir compris ton point ? 
+(20:36:25)  yjacolin:  il serait bon d'avoir un budget, etvoir évantuellement comme l'asso peut les y aid 
+(20:36:34)  yjacolin:  er 
+(20:36:42)  yjacolin:  j'ai faim, désolé :) 
+(20:36:44)  gwenaelb:  Tu veux dire que l'OSGeoFR aide OSGeo QC ? 
+(20:36:49)  yjacolin:  oui 
+(20:37:02)  hhalbout:  mais on n'a pas un fifrelin ! 
+(20:37:29)  Paolini:  n'avions nous pas evoqué la cotisation "libre" donc nulle possible? 
+(20:38:03)  vpicavet:  c'est pas mal la cotisation libre 
+(20:38:11)  sido:  +1 
+(20:38:14)  xpesnel:  je ne sais pas si c'est légal 
+(20:38:15)  hhalbout:  en tant que trésorier, je reste pragmatique : avec quoi paie-t-on l'inscription au JO + l'assurance ? 
+(20:38:19)  gwenaelb:  Chacun choisis le montant ? Oui, pas mal... 
+(20:38:26)  Paolini:  ca veut pas dire 0 pour tous 
+(20:38:27)  pierrel45:  cotisation libre = don ! 
+(20:38:29)  yjacolin:  un montant minimum 
+(20:38:35)  yjacolin:  oui pierrel45 
+(20:38:40)  Paolini:  mais ca laisse la possiblité a tout le monde de participer 
+(20:38:46)  yjacolin:  combien de personne on fait un don cette année ? 
+(20:38:46)  sido:  1€ symbolique 
+(20:38:52)  Paolini:  meme si je vous l'accord, 1, 2, 5 euros c'est pas grand chose 
+(20:38:55)  gratier_thomas:  10 euros mais seulement un avis (en retard de cotis) 
+(20:38:55)  yjacolin:  jevoyas plys élevé sido 
+(20:39:00)  Paolini:  je dis juste que l'on avait evoqué 
+(20:39:03)  sido:  oui why not 
+(20:39:07)  gwenaelb:  Yves : tu veux dire à d'autres assoc ? 
+(20:39:21)  yjacolin:  oui paolini mais on en discute ;) 
+(20:39:34)  vpicavet:  si tu mets un mini tout le monde va payer le mini (sauf si il est ridicule genre 1�) 
+(20:39:36)  yjacolin:  non pour l'OSGeo-fr 
+(20:39:55)  xpesnel:  Peut on connaître le coût de l'inscription au JO + l'assurance ? 
+(20:40:01)  Denis_Helfer:  10 euros c'est quand même pas la mer à boire, si ? 
+(20:40:07)  pierrel45:  a quoi cela sert de payer si c'est ridicule ? 
+(20:40:12)  Ludovic_:  ça dépend pour qui ... 
+(20:40:21)  gwenaelb:  Une remarque : on peut contribuer, sans rien payer 
+(20:40:23)  hhalbout:  non, je ne crois pas, cela peut-être la cotis minimale 
+(20:40:34)  gwenaelb:  On peut tout à faire voir ce montant comme un don 
+(20:40:36)  hhalbout:  je parlais des 10 euros 
+(20:40:36)  Ludovic_:  quand t'es étudiant ou chomeur t'a ptet autre chose à payer 
+(20:40:51)  gratier_thomas:  Comptepaypal pour les dons? 
+(20:41:02)  yjacolin:  thoams: la technique on verra plus tard 
+(20:41:07)  sido:  ah non paypal 
+(20:41:16)  pierrel45:  a quoi cela servirai de payer ? aurait-on un droit particulier ? 
+(20:41:24)  gwenaelb:  Payer = avoir droit de vote 
+(20:41:36)  Ludovic_:  on peut contribuer oui mais pas adhérer à l'asso et c'est quand meme dommage que des gens motivés soient bloqués car il n'a pas les moyens 
+(20:42:05)  sido:  +1 ludo 
+(20:42:18)  yjacolin:  adhérer permet d'agir ausien de l'asso 
+(20:42:22)  tbadard:  Peut-on penser à un système de parrainage ? 
+(20:42:24)  Ludovic_:  moi je suis pour une cotisation pour que les gens qui adhèrent soient des gens volontaires mais je crois qu'il faut différencier certaines catégories comme ça se fait par ailleurs 
+(20:42:26)  yjacolin:  lors des AG avec ledroit de fote 
+(20:42:35)  tbadard:  Si qqu'un n'a pas les moyens, un autre paye pour lui ... 
+(20:42:37)  sido:  +1 ludo 
+(20:42:39)  Paolini:  le jour on qq'un veut noyauter un organisme, il place la cotiz très haute et controle les votes. voila pourquoi j'evoque tout ça 
+(20:42:44)  pierrel45:  Si on peut contribuer sans payer, cela change quelque chose de payer foncierement 
+(20:42:51)  pierrel45:  ? 
+(20:42:51)  hhalbout:  +1 thierry 
+(20:42:53)  yjacolin:  c aussi un soutient moral et financier pour soutenir  une asso 
+(20:43:02)  pierrel45:  ok, donc c'est un don 
+(20:43:05)  gwenaelb:  On pourra toujours contribuer sans payer 
+(20:43:14)  yjacolin:  et payer sans contribuer :) 
+(20:43:16)  Ludovic_:  oui d'ac avec toi yves 
+(20:43:24)  pierrel45:  +1 yves 
+(20:43:27)  gwenaelb:  Je nous vois mal refuser des bonnes volontés parce que l'adhésion n'est pas réglée 
+(20:43:29)  Ludovic_:  pour ce qui avait avant ta connerie 
+(20:43:29)  sido:  dc c'est un don, dc c'est a discretion. 
+(20:43:42)  pierrel45:  +1 sido 
+(20:43:56)  yjacolin:  je suis d'accord pour ne pas avoir de cout trop élevé 
+(20:44:19)  yjacolin:  maintenant jepréfère dire que le niveau de cotisation est de 10 € avec possiblité de payer moins 
+(20:44:29)  yjacolin:  c mal exprimé 
+(20:44:31)  Ludovic_:  bon voila ce que j'imagine bien : 10 € situation normal, 2€ étudiant,chomeur,retraité 
+(20:44:32)  pierrel45:  payer en 10 fois sans frais 
+(20:44:39)  sido:  pour qui yves? je plussoie ludo pr les categories prof 
+(20:44:46)  Paolini:  idem 
+(20:44:48)  vpicavet:  je pense que si tu mets une cotisation libre en moyenne tu gagneras plus de 10�/pers 
+(20:44:57)  sido:  +1 vpica 
+(20:45:28)  yjacolin:  ludo c ce que je voulaisdire 
+(20:45:37)  yjacolin:  mais sans demander "depreuve" 
+(20:45:47)  Ludovic_:  ok tu me le dis et hop je mets le bon truc ;-) 
+(20:45:48)  pierrel45:  Plus facile de mettre plus si on est sponsor... 
+(20:45:54)  hhalbout:  premier vote : pour ou contre une cotisation minimale 
+(20:45:56)  gwenaelb:  Vote : (-1/0/+1). Le vote est ouvert 
+(20:46:00)  yjacolin:  par contre jevoyais plutot 5 que 2 
+(20:46:06)  gwenaelb:  +1 
+(20:46:07)  yjacolin:  +1 
+(20:46:08)  yjacolin:  +1 
+(20:46:10)  tbadard:  +1 
+(20:46:12)  pierrel45:  +1 
+(20:46:14)  hhalbout:  +1 
+(20:46:14)  Denis_Helfer:  +1 
+(20:46:15)  vpicavet:  -1 
+(20:46:17)  gwenaelb:  +2 pour Benjamin et Thierry 
+(20:46:24)  Ludovic_:  hop hop non pas d'ac avec le vote on discute là ! 
+(20:46:32)  vheurteaux:  +1 
+(20:46:34)  fvanderbiest_:  0 
+(20:46:38)  Paolini:  -1 
+(20:46:44)  Ludovic_:  votons une fois qu'on sait pourquoi 
+(20:46:48)  xpesnel:  non-membre 
+(20:46:49)  hhalbout:  il faut sortir du débat pour clarifier 
+(20:47:07)  Ludovic_:  non moi je ne vote pas comme ça sans savoir 
+(20:47:15)  sido:  moi non plus 
+(20:47:19)  yjacolin:  bon déjà une majorité de personne pense qu'il faut un niveau minimal 
+(20:47:32)  Ludovic_:  ok dans ce cas continuer sans moi 
+(20:47:40)  yjacolin:  ludo :) 
+(20:47:44)  hhalbout:  on reprend : pour ou contre une cotisation 
+(20:47:47)  Ludovic_:  non non je rigole pas là 
+(20:47:55)  gwenaelb:  Vote : (-1/0/+1). Le vote est ouvert 
+(20:48:03)  Denis_Helfer:  +1 
+(20:48:06)  Ludovic_:  bonne soirée 
+(20:48:07)  yjacolin:  l'idée est dedécouper le tgruc en plusieur partie pourvoirsurquoi il y a besoin dediscuter 
+(20:48:11)  gwenaelb:  Ludo : vois le vote comme une manière de compter qui pense quoi 
+(20:48:28)  sido:  c juste le principe de la cotisation minimale, ou vs avez fixe un prix (yves a dit:"par contre jevoyais plutot 5 que 2") 
+(20:48:39)  gwenaelb:  Pour une cotisation : +3 (avec Benjamin et Thierry) 
+(20:48:40)  Ludovic_:  j'aimerai savoir pour quoi on vote clairement 
+(20:48:52)  yjacolin:  non c le principe d'avoir un niveau minimal 
+(20:48:52)  pierrel45:  pour ou contre une cotisation 
+(20:48:53)  vheurteaux:  moi je votais pour une cotisation minimale a 2€ 
+(20:48:57)  yjacolin:  non 
+(20:49:04)  sido:  voila, 3 votes différents! 
+(20:49:08)  vheurteaux:  :- 
+(20:49:10)  gwenaelb:  Voyons le montant après, 
+(20:49:11)  sido:  yves, tu px dire stp 
+(20:49:17)  gwenaelb:  STOP VOTE 
+(20:49:23)  yjacolin:  enfait il ya eut un mélange 
+(20:49:31)  yjacolin:  on va re commencer plus clairement pour le vote 
+(20:49:43)  vheurteaux:  ce serait bien 
+(20:49:49)  Ludovic_:  merci oui 
+(20:50:00)  yjacolin:  Gwenael, tu donnes l'intitulé (ou la motion) 
+(20:50:03)  yjacolin:  et tu lances le votes 
+(20:50:10)  yjacolin:  si quelqu'un lance autre chose au mileiu 
+(20:50:16)  yjacolin:  cela ne constitue pas l'objetdu vote 
+(20:50:22)  sido:  oui mais soyez clair et précis! 
+(20:50:28)  yjacolin:  comme certain ont pu le croire parès mon intervention 
+(20:50:36)  yjacolin:  ok 
+(20:50:36)  Ludovic_:  non mais je comprends pas pourquoi on votes au milieu d'une discussion là 
+(20:50:51)  yjacolin:  on ne va pas lancer levote finale sur l'adhésion 
+(20:51:07)  yjacolin:  parcontre sur le principe d'une cotisation minimale on pourrait voir la tendance 
+(20:51:08)  vheurteaux:  c'est un sondage plus qu'un vote Ludovic_ 
+(20:51:09)  sido:  c'est du taylorisme ludo 
+(20:51:25)  yjacolin:  histoire d'avoir l'avis de tout le monde 
+(20:51:30)  Ludovic_:  ok soyons clair dans ce cas et ensuite on vote 
+(20:51:40)  Denis_Helfer:  découper les tâches en petits bouts 
+(20:51:41)  gwenaelb:  La motion : on "vote" (fait un sondage) pour savoir combien de membres sont d'accord pour avoir un niveau de cotisation minimal permettant l'adhésion à l'asso 1901 (qui donne droit de vote) 
+(20:52:16)  yjacolin:  ok ? 
+(20:52:40)  yjacolin:  ludo ? sur le principe on peut lancer le début duvote ? 
+(20:52:46)  yjacolin:  s/vote/sonfage 
+(20:52:50)  Ludovic_:  faites faites 
+(20:52:52)  gwenaelb:  Sondage : (-1/0/+1). Le sondage est ouvert 
+(20:52:58)  Paolini:  0 
+(20:52:58)  sido:  si après on vote sur le niveau qu'on appelle minimal. 
+(20:52:59)  vpicavet:  -1 
+(20:52:59)  yjacolin:  +1 
+(20:53:00)  pierrel45:  +1 
+(20:53:01)  yjacolin:  +1 
+(20:53:01)  Ludovic_:  0 
+(20:53:06)  Denis_Helfer:  +1 
+(20:53:08)  sido:  0 pour marie 
+(20:53:09)  hhalbout:  +1 
+(20:53:11)  gwenaelb:  +3 (Benjamin, Thierry, Gw) 
+(20:53:12)  yjacolin:  sido: évidement, mais après discussion ;) 
+(20:53:18)  vheurteaux:  +1 
+(20:53:20)  xpesnel:  non-membre 
+(20:53:20)  sido:  0 pour sido 
+(20:53:21)  fvanderbiest_:  0 
+(20:54:21)  gwenaelb:  Le compte : 9 pour, 5 abstention, 1 contre 
+(20:54:46)  gwenaelb:  Donc, à priori, la majorité semble ok pour un montant minimal 
+(20:55:04)  tbadard:  +1 
+(20:55:19)  yjacolin:  à b en bravo leretardataire :p 
+(20:55:22)  gwenaelb:  Le compte : 10 pour, 5 abstention, 1 contre 
+(20:55:23)  tbadard:  sorry, j'étais parti me chercher un café 
+(20:55:27)  tbadard:  :D 
+(20:55:43)  pierrel45:  t'aurais pu en ramener pour les autres (;-) 
+(20:55:50)  Ludovic_:  oui mais en l'occurence, vu que c'est un sondage, il faut ptet se demander pourquoi et comment on peut arriver à avoir quelque chose qui regroupe un peu plus non ? 
+(20:55:50)  yjacolin:  je pense que l'on peut discuter de ce fameux montant 
+(20:56:45)  sido:  +& LUDO? 
+(20:56:46)  pierrel45:  quelle dépense pour assurance + jo ? 
+(20:56:54)  yjacolin:  il fautbien voir que l'adhésion permet d'agir au niveau de l'asso pas au niveau de la communauté 
+(20:57:19)  vheurteaux:  d'accord avec Ludovic_ le montant devrait pouvoir peut être aller dans ce sens ? 
+(20:57:40)  hhalbout:  36, ... euros pour le Jo et il faudra compter environ 50 euros pour l'assurance de l'asso (peut-être un peu plus) 
+(20:57:51)  gwenaelb:  Disons 100 euros au total ? 
+(20:58:16)  yjacolin:  i lfaut avoir un équilibre entre l'accueil des personnes, un budget qui permet d'êtr eindépendant des sponsors,  
+(20:58:38)  yjacolin:  un niveau pas trop élevé 
+(20:58:41)  pierrel45:  quels autres dépenses si pas de sponsor ? 
+(20:58:42)  xpesnel:  Pour ma part, étudiant et futur membre, 10 ou 15 Euros / an me semble correcte 
+(20:59:07)  sido:  c'est pas a 10 euros en moyenne, que tu vas etre independant des sponsors, vu le budget precedent 
+(20:59:08)  tbadard:  Pour info, dans 4 minutes j'ai une conférence téléphonique ... je reste en ligne mais serait peut-être pas trop réactif ! Qui a dit que les hommes ne pouvaient pas faire 2 choses en même temps ? :D 
+(20:59:20)  hhalbout:  un fond de roulement cela sert aussi à faire vivre l'asso, sinon on va se retrouver à demander systématiquement l'aide de sponsors pour quelque action que ce soit, avec le lobbying permanent à faire 
+(20:59:47)  pierrel45:  si on regarde 2008, on a une dépense de 4000 €. Si on ne veut pas de sponsor, cela va dire... 
+(20:59:56)  sido:  merci pierre 
+(21:00:04)  yjacolin:  on n'a pas dit pasde sponsor pierre, mpais pas tout misé sureux 
+(21:00:05)  Ludovic_:  exact ... 
+(21:00:10)  Paolini:  tbadard: gates 
+(21:00:21)  hhalbout:  l'assos existant légalement peut demander des subventions dédiées, il lui est alors demandé un budget, s'il n'ya rien sur le compte, comment faire un buget crédible ? 
+(21:00:33)  sido:  dc yves, ce n'est oas un budget qui permet d'etre indpdt des sponsors 
+(21:00:36)  pierrel45:  donc, c'est quoi le minimum qu'on a comme dépense (si on ne trouve pas de sponsor) 
+(21:00:39)  Ludovic_:  et je n'ai jamais remis en question le budget que doit avoir l'asso 
+(21:01:07)  gwenaelb:  Je comprends mieux... 
+(21:01:14)  Paolini:  je vais aussi devoir m'absenter quelques minutes le temps d'enfourcher mon velo.. (j'attends le vote sur la cotiz) 
+(21:01:19)  Ludovic_:  je l'ai dit je suis pour une cotisation mais pas automatiquement pour tous, quitte à moi meme payer plus 
+(21:01:23)  yjacolin:  oui et non sido, l'adhésion ne couvrira pas lesprojets, et les sponsors nous aideront  
+(21:01:36)  sido:  bien sur yves, c pour ca que je precisais 
+(21:01:46)  yjacolin:  on voit pour le budget minimal 
+(21:01:47)  sido:  et c pour ca que c 'est pas un argument ici 
+(21:01:52)  sido:  sinon mets la barre + haut. 
+(21:01:53)  tbadard:  ludo: d'où mon idée tantôt de parrainage ... 
+(21:02:02)  sido:  je suis pour une cotisation libre 
+(21:02:05)  Ludovic_:  ah oui ok thierry 
+(21:02:12)  pierrel45:  tout à fait sido, ce n'est pas un argument... donc la cotisation devient symbolique 
+(21:02:17)  vpicavet:  et une cotiz a choix multiple ? 2-10-20-50-100 ? 
+(21:02:19)  yjacolin:  il faut un équilibre entre lesdifférentes sources definancement 
+(21:02:23)  gwenaelb:  Sido : une cotisation libre avec un mini de 5 euros ? 
+(21:02:33)  yjacolin:  oui vincent je voyais même ca plus libre 
+(21:02:36)  Paolini:  je rejoins pica 
+(21:02:40)  sido:  oui mais yaves on ne supportera pas a 20 les 4000€, ni 2000€! 
+(21:02:54)  Paolini:  ou plus libre en effet. mais une limite basse, la plus basse possible 
+(21:02:56)  yjacolin:  trois niveaux : un niveau minimale pourétudiant, chomeur, un niveau normal et un niveau ouvert 
+(21:02:59)  vpicavet:  yjacolin: oui je suis plutot partisan du 2� mini mais libre 
+(21:03:07)  sido:  +1 pica / + 1 gb 
+(21:03:08)  gwenaelb:  Des sociétés pourraient ensuite être sponsors 
+(21:03:14)  Ludovic_:  pourquoi vous voulez un mini absolument ? si seuls certains avec justificatifs peuvent ne pas payer sans les obliger à ne pas payer 
+(21:03:15)  yjacolin:  cependant je voyais plus pour le montant mini 
+(21:03:32)  pierrel45:  aussi un montant mini pour "marquer" l'adhésion 
+(21:03:37)  vpicavet:  yjacolin: si tu mets trop pour le mini tout le monde va mettre le mini 
+(21:03:47)  sido:  ouiiiii pierre et pica. 
+(21:03:58)  sido:  et ould 
+(21:04:05)  hhalbout:  je pense que le mini devrait être 5 euros, 10 euros en cotis normale, au-dessus devient de la bienfaisance 
+(21:04:16)  Paolini:  Ludovic_: pas absolument ludo mais c'est pour rejoindre l'ensemble des voix exprimées qui souhaitent un fond minimal pour assurer le fonctionnement 
+(21:04:28)  gwenaelb:  +1 hh 
+(21:04:48)  vpicavet:  mais bon, on peut voter le mini : 1, 5, 10, 20, 50 et le plus de voix l'emporte 
+(21:04:57)  Ludovic_:  oui oui paolo j'avais bien compris pour ce qui te concerne 
+(21:04:58)  sido:  5€ etudiants chom / 10e autres et libre ensuite. 
+(21:04:58)  yjacolin:  en cotis mini pour les étudiants etchomeurs de 5 € c trop pour vous , 
+(21:05:11)  gwenaelb:  +1 sido 
+(21:05:11)  Ludovic_:  non aller allons y 
+(21:05:12)  Denis_Helfer:  +1 sido 
+(21:05:25)  gwenaelb:  On peut voter la proposition de sido ? 
+(21:05:29)  sido:  en tant qu'etudiante, 5€ comme mini me parait bien 
+(21:05:38)  Ludovic_:  oui pour moi 
+(21:05:41)  yjacolin:  vous préférez la manière de vincent  oui partir sur le vote de lacotis mini direct , 
+(21:05:53)  yjacolin:  ? 
+(21:06:03)  hhalbout:  la cotisation de 5 euros devra être réglée en pièces d'1 centimes d'euros ! 
+(21:06:07)  sido:  c'est pareil que moi, sauf que j'ai donné les 2 prix de ref 
+(21:06:15)  Ludovic_:  peut on voter sur le princip d'une cotis différencié ? 
+(21:06:16)  sido:  oui HH, je t'enverrai ça!! :p 
+(21:06:19)  yjacolin:  bon on est un pue limite dans letemps 
+(21:06:21)  gwenaelb:  On ira plus vite avec la proposition de Sido 
+(21:06:29)  Paolini:  hhalbout: ou en piece de 5euros ;) 
+(21:06:30)  yjacolin:  ok c partie, gwenael ;) 
+(21:06:32)  pierrel45:  si on veut absolument différencier étudiant /autre, ok pour le vote sur la proposition de sido 
+(21:06:35)  sido:  ds ma prop, c differencié 
+(21:06:47)  Ludovic_:  oui oui sido tout à fait 
+(21:06:58)  yjacolin:  on préapre le vote là 
+(21:07:05)  Ludovic_:  bon aller 5 € cas particulier, 10 ou plus les autres ça me va 
+(21:07:05)  yjacolin:  gwenael a du mal avec le clavbier 
+(21:07:14)  yjacolin:  pompompom 
+(21:07:21)  gwenaelb:  Motion : l'adhésion à l'asso 1901 sera de 5 euros minimum, de 10 euros en montant normal, et pour être plus élevée si l'adhérent le souhaite. 
+(21:07:24)  yjacolin:  sifflement 
+(21:07:24)  sido:  les cas particuliers, outres etudiants/chom , y'a autre chose? 
+(21:07:34)  yjacolin:  non je ne pense pas 
+(21:07:38)  gwenaelb:  Sido : ce sera les 5 euros 
+(21:07:39)  sido:  precise le cas des 5 euros minimum! 
+(21:07:42)  pierrel45:  c'est quoi un cas particulier ? 
+(21:07:51)  sido:  etudiants/chomeurs 
+(21:08:12)  gwenaelb:  Motion : l'adhésion à l'asso 1901 sera de 5 euros minimum (étudiants ou chômeurs), de 10 euros en montant normal, et pour être plus élevée si l'adhérent le souhaite. 
+(21:08:14)  sido:  5€ etudiants/chom et 10€ autres, comme minima 
+(21:08:15)  pierrel45:  faudra montrer sa carte d'étudiant ou de chomeur à l'asso ? 
+(21:08:27)  hhalbout:  oui, par fax 
+(21:08:29)  gwenaelb:  Non, pas de vérification 
+(21:08:31)  sido:  si il faut oui, on envoie une phtoocop 
+(21:08:36)  yjacolin:   est ce légal ? 
+(21:08:38)  sido:  ben prquoi? c simple. 
+(21:08:45)  Ludovic_:  moi je pense qu'il faut un justif oui 
+(21:08:45)  yjacolin:  c une question de confiance 
+(21:08:51)  gwenaelb:  On peut le demander... 
+(21:09:00)  sido:  c aussi une facon d'etre reglo et de s'investir un peu 
+(21:09:06)  yjacolin:  pour la mise en pratique on vcerra plus tard non ? 
+(21:09:13)  sido:  si on peut pas prendre 5 minutespr faire une photocop 
+(21:09:29)  gwenaelb:  Motion : l'adhésion à l'asso 1901 sera de 5 euros minimum (étudiants ou chômeurs), de 10 euros en montant normal, et pour être plus élevée si l'adhérent le souhaite. 
+(21:09:30)  gwenaelb:  Vote (+1/0/-1) : le vote est ouvert 
+(21:09:36)  hhalbout:  +1 
+(21:09:37)  vpicavet:  +1 
+(21:09:38)  gwenaelb:  +3 (Gw, T, B) 
+(21:09:39)  Denis_Helfer:  +1 
+(21:09:40)  vheurteaux:  +1 
+(21:09:40)  sido:  +1 sido ; 0 marie 
+(21:09:41)  yjacolin:  (c ca en plus à gérer, archiver etc.) 
+(21:09:46)  Ludovic_:  +1 
+(21:09:46)  pierrel45:  +1 
+(21:09:48)  xpesnel:  non-membre 
+(21:09:50)  yjacolin:  +1 
+(21:09:56)  fvanderbiest_:  +1 
+(21:10:00)  yjacolin:  +1 
+(21:10:12)  Paolini:  +1 
+(21:10:28)  gwenaelb:  THIERRY !!! 
+(21:10:33)  yjacolin:  occupé 
+(21:10:35)  yjacolin:  on passe 
+(21:10:43)  gwenaelb:  Donc, la motion passe 
+(21:10:47)  yjacolin:  objectif 2009 
+(21:10:58)  yjacolin:  diapo 16/20 
+(21:11:12)  Paolini:  je m'absente 10-15 minutes le temps de me rebrancher. atout'. j'espere etre la pour le prochain vote (ou pour la fin) 
+(21:11:14)  yjacolin:  une page similaire à l'année dernièer a été créer sur le wiki afin de lister les projets 
+(21:11:14)  Paolini:  ++ 
+(21:11:22)  yjacolin:  paolini : plus de vote 
+(21:11:28)  Paolini:  ok tant mieux 
+(21:11:45)  Paolini:  donc je quitte le chan.. Bonne soirée à tous. je lirai le log. 
+(21:12:05)  yjacolin:  donccomme l'année dernier proposer le projet, vous êtes animateur 
+(21:12:09)  yjacolin:  ou le PV ;) 
+(21:12:17)  Ludovic_:  ciao pa 
+(21:12:19)  Paolini:  yjacolin: mieux oui 
+(21:12:38)  yjacolin:  commedit plus haut, je pense uq'il est important de mettre des objectifs pas trop ambitieux pour avoir ke plus de monde et ne pas effrayer 
+(21:13:00)  Ludovic_:  on peut réagir là ou vaut mieux pas ? 
+(21:13:10)  yjacolin:  lerôle d'animateur est : animer les projets et faire remonter les infos 
+(21:13:11)  pierrel45:  bonne question ludo 
+(21:13:14)  yjacolin:  réagit réagit 
+(21:13:22)  Ludovic_:  (21:10:41)  yjacolin:  donccomme l'année dernier proposer le projet, vous êtes animateur 
+(21:13:27)  #  Paolini a quitté la discussion ("Kopete 0.12.4 : http://kopete.kde.org"). 
+(21:13:36)  Ludovic_:  attention on risque de perdre des idées de propositions 
+(21:13:51)  Ludovic_:  on peut proposer sans etre animateur après ça intéresse ou pas 
+(21:13:55)  yjacolin:  attention: il y a une page générale qui lizste les acotions possibles pourl'OSGe 
+(21:14:12)  yjacolin:  ce n'est pas la même aque celle qui liste lesactions à mener 
+(21:14:30)  Ludovic_:  et donc ? 
+(21:14:52)  yjacolin:  et bien si quelqu'un veut animer un projet, il connait le projet, il a déjà uneidée 
+(21:15:09)  yjacolin:  donc il est invité à la proposer sur la liste 
+(21:15:20)  Ludovic_:  ah oui je crois que j'ai compris on peut proposer quelque part et se proposer comme anim ailleurs c'est ça ? 
+(21:15:24)  yjacolin:  la page wiki est là pour savoir qui s'en occupe et qui contacter 
+(21:15:31)  Ludovic_:  ok 
+(21:15:39)  yjacolin:  en fait on peut proposer des projets dansunepage générale oui 
+(21:15:46)  gwenaelb:  Oui Ludo 
+(21:15:52)  yjacolin:  la pagedes actions est plus là pour lister les projets qui avancent qui sont lancé 
+(21:15:55)  Ludovic_:  scusez moi 
+(21:16:02)  yjacolin:  je me fait bien comprendre ? 
+(21:16:13)  pierrel45:  j'avais besoin de la clarification aussi ! 
+(21:16:19)  Ludovic_:  ça va pour cette fois yves 
+(21:16:21)  pierrel45:  ok yves 
+(21:16:23)  yjacolin:  pas de question ? 
+(21:16:24)  yjacolin:  merci ludo :) 
+(21:16:35)  hhalbout:  je vous quitte, j'ai un train à prendre. Je lirai la suite demain. Bonne soirée à tous. 
+(21:16:44)  sido:  bonne soirée hervé 
+(21:16:52)  gwenaelb:  Bonsoir Hervé 
+(21:16:53)  Ludovic_:  salut hervé 
+(21:16:54)  Denis_Helfer:  bonsoir Hervé 
+(21:16:55)  yjacolin:  bon c'et une présentation de l'OSGeo-fr en 2009 
+(21:17:08)  #  hhalbout a quitté la discussion (Quitter : « "ChatZilla 0.9.83 [Firefox 2.0.0.12/2008020121]" » ). 
+(21:17:09)  yjacolin:  n'hésitez pas à proposer quoi quece soit, ubnemeilleure gestion etc. 
+(21:17:19)  yjacolin:  si on peut améliorer tout ca :) 
+(21:17:36)  sido:  ben prendre en compte la synthèse du sondage 
+(21:17:41)  yjacolin:  j'ai mis quelques projets dansles diapossuivantes 
+(21:17:46)  sido:  dans tous ses aspects 
+(21:18:08)  gwenaelb:  Sido : vois tu des propositions concrètes (comme le fait de créer la ML board) ? 
+(21:18:13)  yjacolin:  on acommencé Sido mais tu pourrais écrire une page "actions concrétes suite au sondage" non ? 
+(21:18:34)  yjacolin:  ca sera plus claire et me prendra moinsdetemps :p 
+(21:19:32)  yjacolin:  au niveau des projets, lessalons Autodesk en fin d'année(bon on estencore en 2008) Geoévénement 2009 
+(21:19:50)  yjacolin:  OGC en fin d'année 2008 (si vous avezdesinfps n'hésitez pas) 
+(21:19:53)  sido:  a suivre 
+(21:19:56)  yjacolin:  oui sido 
+(21:20:02)  gwenaelb:  ok 
+(21:20:12)  pierrel45:  OGC infos ==> je pourrais en donner 
+(21:20:39)  yjacolin:  bref, vous l'avez compris si vous êtes prêt à vous investir vous etes le bienvenu de quelques manières que ce soit 
+(21:20:43)  yjacolin:  merci pierre ;) 
+(21:21:10)  sido:  est-ce qu'il y a une date deja? 
+(21:21:33)  yjacolin:  je répète n'hésitez pas à proposer des choses, même si on a pas tjrs l'impression que ca avance, en faitcela nourrit la .... 
+(21:21:46)  sido:  y'a pas un journal a traduire ? ;) 
+(21:21:48)  yjacolin:  rflexion 
+(21:21:52)  yjacolin:  :D 
+(21:21:58)  sido:  oui yves 
+(21:22:01)  yjacolin:  pour ladate sido je ne sais pas il faudre se renseigner 
+(21:22:18)  sido:  nan mais ct au cas ou pierre la connaissait...(je sais que tu ne la connais pas...) 
+(21:22:20)  Ludovic_:  tu veux des propositions maintenant ou sur la liste ? 
+(21:22:43)  yjacolin:  pour les projets je vous propose d'en reparler sur la liste 
+(21:22:48)  gwenaelb:  Disons sur la liste ... 
+(21:22:57)  Ludovic_:  ok c'est bien ce qui me semblait 
+(21:22:58)  pierrel45:  pour la date, y a un projet mais rien d'officiel. 
+(21:23:09)  pierrel45:  la suite sur la liste 
+(21:23:11)  sido:  ok 
+(21:23:13)  gwenaelb:  ok 
+(21:23:22)  yjacolin:  pierre, pourras tu comuniquer là dessus surla liste quandtu saurasdes choses 
+(21:23:28)  sido:  sinon qui va a foss4g au final? 
+(21:23:32)  yjacolin:  l'OSGeo-fr estofficiellement intéressé :) 
+(21:23:35)  yjacolin:  moi 
+(21:23:45)  sido:  et guillaume, et sinon? 
+(21:23:50)  Ludovic_:  yves gaffes tu perds tes espaces ... 
+(21:23:54)  yjacolin:  ah oiuui guillaume 
+(21:24:02)  pierrel45:  communiquer ==> oui sur la liste 
+(21:24:03)  yjacolin:  mauvaise nouvelle 
+(21:24:08)  sido:  j'ai vu qu'Erwan y sera aussi 
+(21:24:13)  sido:  yves? 
+(21:24:24)  yjacolin:  guillaume est overbooké il a donc du démissioner du bureau 
+(21:24:30)  yjacolin:  à contrecoeur 
+(21:24:38)  sido:  ah bon??? 
+(21:24:49)  sido:  et ca n'arrive que maintenant? 
+(21:24:58)  gwenaelb:  Oui, il nous l'a annoncé hier 
+(21:25:08)  sido:  merde alors. 
+(21:25:13)  sido:  et dc il se passe quoi? 
+(21:25:18)  gwenaelb:  D'ailleurs la place est libre... 
+(21:25:19)  Ludovic_:  ah ben bien, enfin tant mieux pour lui j'imagine que c'est positif 
+(21:25:33)  sido:  oui, bien sûr! on est contents pr lui!! :p 
+(21:25:57)  sido:  vs cherchez des candidatures, vs nommez de force, vs faites quoi? 
+(21:25:58)  gwenaelb:  Rappel : Guillaume était responsable de la commision Logiciels Libres 
+(21:26:16)  gwenaelb:  Je ne sais pas Sido, depuis hier, on n'a pas pu en parler... tu serais volontaire ? 
+(21:26:23)  vheurteaux:   y va aussi (au FOSS) 
+(21:26:29)  sido:  non, pas du tout le temps cette année. 
+(21:26:30)  Ludovic_:  faut reparler de ça sur la liste 
+(21:26:36)  gwenaelb:  Oui, sur la liste 
+(21:26:38)  sido:  oui ludo / ok vincent 
+(21:27:13)  yjacolin:  oui il fallait l'annoncer 
+(21:27:28)  yjacolin:  on en reparle sur la liste 
+(21:27:34)  Ludovic_:  ok 
+(21:27:40)  yjacolin:  mais normalement on doit nommer une personne 
+(21:27:45)  sido:  pr le foss, vs prevoyez un cr ou un blog temps réel ? 
+(21:27:47)  sido:  :p 
+(21:27:56)  yjacolin:  mais on peut en discuter sur la liste du bureau 
+(21:28:00)  Denis_Helfer:  on aurait pas épuisé l'ordre du jour ? 
+(21:28:03)  yjacolin:  sido: oui moi 
+(21:28:14)  yjacolin:  Denis_Helfer: non il y a les questions aux bureau 
+(21:28:16)  yjacolin:  des quesstions , 
+(21:28:19)  yjacolin:  non très bien 
+(21:28:28)  yjacolin:  fin de scéance si pas de question 
+(21:28:33)  gwenaelb:  (J'ai dit "tu es dur, Yves") 
+(21:28:40)  yjacolin:  detoute façon si question il ya elelssont les bienvenue sur la lsite 
+(21:28:43)  sido:  ah ben yves, c'est oui, puis non, puis on est fermés. 
+(21:28:50)  Denis_Helfer:  bonne soirée à tous 
+(21:28:59)  yjacolin:  disons qu'il est tard :) 
+(21:29:00)  sido:  bonne soirée! 
+(21:29:01)  vheurteaux:  ciao tout le monde 
+(21:29:02)  Ludovic_:  bonsoir Denis 
+(21:29:04)  fvanderbiest_:  A+ 
+(21:29:06)  gwenaelb:  Ok, ciao 
+(21:29:07)  #  fvanderbiest_ a quitté la discussion (Quitter : « "Ex-Chat" » ). 
+(21:29:07)  sido:  oui merci! 
+(21:29:12)  #  Denis_Helfer a quitté la discussion (Quitter : « "http://www.mibbit.com ajax IRC Client" » ). 
+(21:29:13)  yjacolin:  sido : je compte rependre l'idée du geoblog 
+(21:29:18)  yjacolin:  plus un article quelque part 
+(21:29:19)  #  gwenaelb a quitté la discussion (Quitter : « "ChatZilla 0.9.83 [Firefox 2.0.0.16/2008070205]" » ). 
+(21:29:27)  pierrel45:  bonne soirée 
+(21:29:28)  yjacolin:  et pifetout 
+(21:29:30)  yjacolin:  ah si 
+(21:29:31)  Ludovic_:  on a fini là ? 
+(21:29:34)  sido:  oki pifetout 
+(21:29:42)  sido:  oui, vas y tu px dire des conneries 
+(21:29:45)  pierrel45:  on attend le cr 
+(21:29:45)  yjacolin:  j'esayerai d'avoir un canal irc puvert pendant les conf pour commenter en ddirect 
+(21:29:46)  xpesnel:  Bonne soirée, je vous quitte, à bientôt 
+(21:29:53)  Ludovic_:  moi jamais sido 
+(21:29:54)  sido:  bonne soirée 
+(21:30:03)  sido:  :p 
+(21:30:06)  yjacolin:  oui ludo, on a abrégé la fin 
+(21:30:13)  Ludovic_:  j'ai vu ça 
+(21:30:16)  #  xpesnel a quitté la discussion (Quitter : « "ChatZilla 0.9.83 [Firefox 3.0.1/2008072820]" » ). 
+(21:30:16)  sido:  "à la yves" 
+(21:30:20)  yjacolin:  par contre le retour physique : c mieux de faire une AG physique 
+(21:30:31)  yjacolin:  c plus simple à géré quand même 
+(21:30:41)  sido:  c clair 
+(21:30:41)  Ludovic_:  ben tu me paies le billet AR avec les cotis minimum ? 
+(21:30:47)  yjacolin:  c pas top je sais bien mais bon 
+(21:30:49)  sido:  mais bon, j'avais vraiment pas le tps 
+(21:30:54)  sido:  et là encore qs heures de taf... 
+(21:31:03)  sido:  du coup.. 
+(21:31:06)  yjacolin:  ben oui mais c pas simple jevous le dit 
+(21:31:13)  yjacolin:  bonnecontinuation sido 
+(21:31:16)  yjacolin:  bonne soirée à tous 
+(21:31:16)  sido:  oh ben voui mon brav' monsieur
